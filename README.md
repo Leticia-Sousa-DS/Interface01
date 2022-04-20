@@ -1,2 +1,2 @@
 # Interface01
-Recriando a interface do instagram com base no desafio de projeto da Digital Innovation One.
+Seguindo as diretrizes do desafio de projeto da Digital Innovation One, este projeto visa recriar a interface da rede social instagram.
